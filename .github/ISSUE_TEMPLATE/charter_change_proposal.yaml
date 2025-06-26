@@ -1,0 +1,44 @@
+name: Contractual Documents Errata or Additions
+description: Template for proposing an addition or change request to the contractual documents of NeoNephos.
+title: "[TAC Agenda Request]: - Request Title"
+labels: ["tac-agenda-request"]
+assignees:
+  - ajinkyapatil8190
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to report an error or request a change in the NeoNephos contractual documents.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: document-type
+    attributes:
+      label: Contract Type
+      description: Which contract type (e.g. project charter) would you like to address?
+      placeholder: ex. Foundational Project Charter
+    validations:
+      required: true
+  - type: checkboxes
+    id: reporting-type
+    attributes:
+      label: Reporting Type
+      description: I want to ...
+      options:
+        - label: Report an error
+        - label: Propose a change
+          required: true   
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: Issue Description
+      description: Describe precisely what you would like to address.
+      placeholder: I found a spelling mistake in Foundational Project Charter 2.1 a)
+    validations:
+      required: true          
