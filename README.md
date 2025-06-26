@@ -18,7 +18,7 @@ Learn more about NeoNephos by checking out the official website at [https://neon
 
 Here you find links to learn more about what our organizational bodies are and how they work.
 
-- **[NeoNephos Project Charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?
+- **[NeoNephos Project Charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?)**
   
 ## :sunflower: Projects
 
