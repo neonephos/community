@@ -1,0 +1,139 @@
+name: New Project Proposal
+description: Template for proposing a project to the TAC.
+title: "[New Project Proposal]: - PROJECT NAME"
+labels: ["new-project-tac", "new-project"]
+assignees:
+  - ajinkyapatil8190
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to NeoNephos. Please fill out this form to the best of your abilities. If you have questions, please reach christian.neu@sap.com!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: mission-statement
+    attributes:
+      label: Mission Statement
+      description: Briefly explain the purpose and scope of the project.
+      placeholder: The goal of the project is create an open-source cloud operating system that can be ran by any provider.
+    validations:
+      required: true
+  - type: textarea
+    id: project-description
+    attributes:
+      label: Project Description
+      description: Explain what it does and its history.
+    validations:
+      required: true      
+  - type: dropdown
+    id: existing-project
+    attributes:
+      label: Is this a new project or an existing one?
+      description: Select if the project already exists or not.
+      options:
+        - Existing Project
+        - New Project
+      default: 0
+    validations:
+      required: true  
+  - type: textarea
+    id: project-leadership
+    attributes:
+      label: Project Leadership
+      description: List the current project leadership team. If you have a Technical Steering Committee list all members and their role.
+      placeholder: Jamal Jackson — TSC Chairperson
+    validations:
+      required: true         
+  - type: textarea
+    id: project-sponsors
+    attributes:
+      label: Project Sponsors
+      description: List any active sponsoring organizations or other external key contributing individuals to the project.
+    validations:
+      required: false       
+  - type: textarea
+    id: project-infrastructure
+    attributes:
+      label: Current Infrastructure
+      description: Detail any existing public infrastructure, including GitHub repositories, websites, mailing lists and social media accounts.
+    validations:
+      required: true   
+  - type: textarea
+    id: project-infrastructure-requests
+    attributes:
+      label: Infrastructure Needs
+      description: List any specific infrastructure requests besides what is normally provided by NeoNephos. These are normally items that could incur a cost on the foundation like providing servers for testing etc.
+    validations:
+      required: false    
+  - type: textarea
+    id: project-neonephos-benefits
+    attributes:
+      label: Benefit to NeoNephos
+      description: Detail how NeoNephos benefits from the project. Look at the existing NeoNephos ecosystem (e.g. Gardener) to see how your projects fits there.
+    validations:
+      required: true   
+  - type: textarea
+    id: project-neonephos-benefits-2
+    attributes:
+      label: Benefit to Project
+      description: Detail how the project benefits from NeoNephos.
+    validations:
+      required: true        
+  - type: dropdown
+    id: project-license
+    attributes:
+      label: Current Project License
+      description: List the current license of all important repositories in the project. If your project has multiple licenses, please select one of the Other options.
+      multiple: true     
+      options:
+        - Apache 2.0
+        - MIT
+        - Other permissive licenses
+        - Other nonpermissive licenses
+        - Other
+      default: 0
+    validations:
+      required: true  
+  - type: textarea
+    id: project-code-of-conduct
+    attributes:
+      label: Code of Conduct
+      description: If the project has a code of conduct please link it.
+    validations:
+      required: false       
+  - type: textarea
+    id: project-end-users
+    attributes:
+      label: End Users
+      description: If available, list the most significant end users / customers utilizing or integrating the project.
+    validations:
+      required: false    
+  - type: textarea
+    id: project-trademark-transfer
+    attributes:
+      label: Trademark Inventory
+      description: Please list all trademark and assets you intend to transfer to LFEU.
+    validations:
+      required: true 
+  - type: textarea
+    id: project-tac-supporter
+    attributes:
+      label: TAC Supporters
+      description: If TAC members are supporting your proposal, please list them all.
+    validations:
+      required: false        
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Good Faith
+      description: By submitting this issue, you agree to have filled out all information to the best of your knowledge.
+      options:
+        - label: I agree
+          required: true
