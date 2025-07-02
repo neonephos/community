@@ -36,6 +36,12 @@ View NeoNephos current projects here.
 - **[Platform Mesh](https://github.com/platform-mesh):**  Platform Mesh establishes interoperability between multiple providers by building upon the Kubernetes API and resource model. Developers and admins can discover, access, and order services from various sources through kubectl.
 - **[Katalis](https://github.com/telekom/NeoNephos-Katalis):**  Katalis bridges Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles. Katalis establishes interoperability by translating Telco Federation APIs to IT Cloud resource provisioning and management.
 
+## :mega: Outreach
+
+View information or archived files regarding our outreach activities here.
+
+- **[Community Call](outreach/community_call/readme.md):** Slides and other files from the last community calls.
+
 ## :busts_in_silhouette: Get Involved
 
 Thank you for considering to contribute to our projects.
