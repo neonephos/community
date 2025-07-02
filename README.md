@@ -41,7 +41,7 @@ View NeoNephos current projects here.
 View information or archived files regarding our outreach activities here.
 
 - **[Community Calls](outreach/community_calls/readme.md):** Slides and other files from the last community calls.
-- **[Community Calls](outreach/newsletter/readme.md):** Collection of newsletters sent out thus far.
+- **[Newsletter](outreach/newsletter/readme.md):** Collection of newsletters sent out thus far.
 
 ## :busts_in_silhouette: Get Involved
 
