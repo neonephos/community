@@ -55,3 +55,7 @@ To facilitate an open and welcome environment for all, check out the [Linux Foun
 ## Licensing
 
 Copyright SAP SE or an SAP affiliated Company and NeoNephos Community contributors.
+
+<p align="center">
+  <img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/>
+</p>
