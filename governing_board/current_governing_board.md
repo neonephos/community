@@ -12,7 +12,7 @@ The meetings are open to GB members and invited guests. The dates are announced 
 
 |Representative|Appointed By|Role|Organization|
 |---|---|---|---|
-| Christian Neu  | Premier Sponsor  | Chairperson  | SAP |
+| Christian Neu  | Premier Sponsor  | Chairperson  | SAP SE|
 | Christian Weiss  | Premier Sponsor  | Representative  | T-Systems |
 | Stephan Illaender  | Premier Sponsor  | Representative  | STACKIT |
 
