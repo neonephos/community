@@ -25,6 +25,7 @@ We invite all members to join and participate in shaping the future of NeoNephos
  
 📅 Upcoming Community Call – July 9th
 Don’t miss our next Community Call on **Tuesday, July 9 at 4:00pm CEST**.
+
 Join us to:
 
 ✔️ Get a short onboarding to NeoNephos
