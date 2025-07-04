@@ -26,6 +26,10 @@ Get to know our organizational bodies by exploring the links below.
 
 - **[Current Governing Board](governing_board/current_governing_board.md):** Our current Governing Board.
 
+
+## :scroll: Templates
+
+- **[Meeting Minutes Template](templates/meeting_minutes_template.md):** Template for taking meeting minutes.
   
 ## :sunflower: Projects
 
