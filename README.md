@@ -19,6 +19,13 @@ Learn more about NeoNephos by checking out the official website at [https://neon
 Here you find links to learn more about what our organizational bodies are and how they work.
 
 - **[NeoNephos Project Charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087):** Our foundational charter which underpins NeoNephos.
+
+## :evergreen_tree: Governance
+
+Get to know our organizational bodies by exploring the links below.
+
+- **[Current Governing Board](governing_board/current_governing_board.md):** Our current Governing Board.
+
   
 ## :sunflower: Projects
 
