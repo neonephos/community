@@ -1,6 +1,7 @@
 **Subect**: NeoNephos Newsltter — June Recap and What's Coming in July!
 
 **Hello NeoNephos Newsletter readers!** 👋
+
 Another eventful month has passed. Let’s recap all the important things that happened in June:
  
 🛠️ **TSC Chairpersons Elected**
