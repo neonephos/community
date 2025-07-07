@@ -25,7 +25,7 @@ Welcome! Here you will find all necessary information regarding our sitting Tech
 | Maximilian Braun       | TSC Chairperson OpenMCP                   |
 | To be determined       | TSC Chairperson Katalis                   |
 
-*Please note: All information displayed here is subject to change.*
+*Please note: All information displayed here is subject to change. For example, as the first meeting has not occured yet, a chairperson has not yet been elected*
 
 ## Projects
 
