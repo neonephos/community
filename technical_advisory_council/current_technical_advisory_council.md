@@ -2,7 +2,7 @@
 
 <img src="../assets/tac_logo.png" alt="TAC Logo" width="500"/> 
 
-Welcome! Here you will find all necessary information regarding our sitting [Technical Advisory Committee (TAC)](Technical_Advisory_Committee_Explanation.md).
+Welcome! Here you will find all necessary information regarding our sitting Technical Advisory Committee (TAC).
 
 🚧This file is under active construction. All information displayed may be subject to change. Check back soon.🚧
 
