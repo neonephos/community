@@ -38,7 +38,7 @@ Projects are approved as per the project lifecycle guidelines (to be released so
 |[Gardener](https://github.com/gardener/)|To be determined| 
 |[Open Component Model](https://github.com/open-component-model/)|To be determined| 
 |[Open Managed Control Pane](https://github.com/openmcp-project)|To be determined| 
-|[Open Micro Front End Platform (openMFP)](https://github.com/openmfp)|To be determined| 
+|[Open Micro Front End Platform](https://github.com/openmfp)|To be determined| 
 |[CobaltCore](https://github.com/cobaltcore-dev)|To be determined| 
 |[IronCore](https://github.com/ironcore-dev) |To be determined| 
 |[Greenhouse](https://github.com/cloudoperators) |To be determined| 
