@@ -30,6 +30,7 @@ Get to know our organizational bodies by exploring the links below.
 ## :scroll: Templates
 
 - **[Meeting Minutes Template](templates/meeting_minutes_template.md):** Template for taking meeting minutes.
+- **[NeoNephos Slides Theme](https://docs.google.com/presentation/d/1AsuO_VFFlc-9bWv6zcHZpQm5Q0IMlgbMcdZg6Rzwhx4/edit?slide=id.p#slide=id.p):** NeoNephos theme for use in presentations.
   
 ## :sunflower: Projects
 
