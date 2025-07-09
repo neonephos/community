@@ -1,6 +1,6 @@
 # FAQ
 
-## Are there any plans for meetups or conferences? Will there be a similar model engagement model like the CNCF?
+## Are there any plans for meetups or conferences? Will there be a similar engagement model like the CNCF?
 
 We are currently building up the community engagement and outreach strategy. This also includes specific outreach channels to use like Discord or Mastodon. Nevertheless, you can already engage with us by
 
