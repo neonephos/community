@@ -34,7 +34,9 @@ Join us to:
 
 ✔️ Engage in Q&A and community updates
 
+
 🔗 Join the call [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/94021431419?password=712c6764-326c-4ed0-9f83-c497fae5c278&__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1751614156315.1751623922085.100&__hssc=81619592.16.1751623922085&__hsfp=1765797706).
+
 
 📩 Request an invitation to the Community Call by replying to this email.
  
