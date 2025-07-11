@@ -9,7 +9,7 @@ These events are recurring and have an informational character, like for example
 
 *If an entry is invalid or missing feel free to do a pull request with the corrected information.*
 
-- **[NeoNephos](https://neonephos.org/events):**  The foundation-wide community call is usually held monthly on a Wednesday. Its date is announced [here](https://neonephos.org/events).
+- **[NeoNephos](https://neonephos.org/events):**  The foundation-wide community call is usually held monthly on a Wednesday. Its date is announced [here](https://neonephos.org/events) (subscribe to the calendar).
 - **[CobaltCore](https://github.com/cobaltcore-dev):** Check out the [steering page](https://github.com/cobaltcore-dev/steering/tree/main) to get in touch.
 - **[IronCore](https://github.com/ironcore-dev):**  Check out the [steering page](https://github.com/ironcore-dev/steering/tree/main?tab=readme-ov-file) to get in touch.
 - **[Open Component Model](https://github.com/open-component-model/):** The community call is [held on every first Wednesday of the month](https://ocm.software/community/engagement/#community-calls).
