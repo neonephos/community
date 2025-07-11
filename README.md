@@ -4,7 +4,7 @@
 
 :wave: Welcome to the official Community GitHub presence of the NeoNephos Foundation.
 
-🚧This repository is under active construction. Check back soon.🚧
+🚧This repository is under active construction. Please check back soon.🚧
 
 ## :globe_with_meridians: NeoNephos?
 
@@ -12,7 +12,7 @@ NeoNephos supports Europe’s strategic goal of creating a sovereign cloud-to-ed
 
 The NeoNephos Foundation is part of the Linux Foundation Europe.
 
-Learn more about NeoNephos by checking out the official website at [https://neonephos.org/](https://neonephos.org/).
+Learn more about NeoNephos by visiting the official website at [https://neonephos.org/](https://neonephos.org/).
 
 ## :seedling: Governance (Learning)
 
@@ -57,7 +57,7 @@ View information or archived files regarding our outreach activities here.
 
 ## :busts_in_silhouette: Get Involved
 
-Thank you for considering to contribute to our projects.
+Thank you for considering contributing to our projects.
 Check out our projects on their respective pages.
 
 ## :blue_heart: Code of Conduct
