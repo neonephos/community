@@ -2,11 +2,11 @@
 
 <img src="../assets/gb_logo.png" alt="GB Logo" width="500"/> 
 
-Welcome! Here you will find all necessary information regarding our sitting Governing Board (GB).
+Welcome! Here you will find all necessary information regarding our Governing Board (GB).
 
 ## Meetings
 
-The meetings are open to GB members and invited guests. The dates are announced to the members via the private mailing list.
+Meetings are open to Governing Board members and invited guests. Dates are announced to members via the private mailing list.
 
 ## Members
 
@@ -20,4 +20,4 @@ The meetings are open to GB members and invited guests. The dates are announced 
 
 ## Mailing Lists
 
-There is currently no public mailing list.
+Currently, there is no public mailing list.
