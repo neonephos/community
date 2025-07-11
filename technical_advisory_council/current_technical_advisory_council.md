@@ -2,9 +2,9 @@
 
 <img src="../assets/tac_logo.png" alt="TAC Logo" width="500"/> 
 
-Welcome! Here you will find all necessary information regarding our sitting Technical Advisory Committee (TAC).
+Welcome! Here you will find all necessary information regarding our Technical Advisory Committee (TAC).
 
-🚧This file is under active construction. All information displayed may be subject to change. Check back soon.🚧
+🚧This file is under active construction. All information may change. Please check back soon.🚧
 
 ## Members
 
@@ -25,11 +25,11 @@ Welcome! Here you will find all necessary information regarding our sitting Tech
 | Maximilian Braun       | TSC Chairperson OpenMCP                   |
 | To be determined       | TSC Chairperson Katalis                   |
 
-*Please note: All information displayed here is subject to change. For example, as the first meeting has not occured yet, a chairperson has not yet been elected*
+*Please note that all information here may change. For example, as the first meeting has not occured yet, a chairperson has not yet been elected*
 
 ## Projects
 
-Projects are approved as per the project lifecycle guidelines (to be released soon). The current NeoNephos projects along with their lifecycle stage are listed below.
+Projects are approved as per the project lifecycle guidelines, which will be released soon. The current NeoNephos projects and their lifecycle stages are listed below.
 
 |Name|Stage|
 |---|---|
@@ -47,4 +47,4 @@ Projects are approved as per the project lifecycle guidelines (to be released so
 
 ## Mailing Lists
 
-A mailing list is under construction. It is yet to be determined if it is going to be public.
+A mailing list is under construction. It is yet to be determined whether it will be public.
