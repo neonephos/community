@@ -19,5 +19,5 @@ These events are recurring and have an informational character, like for example
 - **[Open Resource Discovery](https://github.com/open-resource-discovery):** Check out the [steering page](https://github.com/open-resource-discovery/steering) to get in touch.
 - **[Open Micro Front End Platform](https://github.com/openmfp):**  Stay up to date on the [community page](https://github.com/openmfp/community) for events, calls and more.
 - **[Greenhouse](https://github.com/cloudoperators):** Check out the [steering page](https://github.com/cloudoperators/steering) to get in touch.
-- **[Platform Mesh](https://github.com/platform-mesh):**  *Community page coming live soon!*.
+- **[Platform Mesh](https://github.com/platform-mesh):**  *Community page coming live soon!*
 - **[Katalis](https://github.com/telekom/NeoNephos-Katalis):**  *To be determined*
