@@ -1,4 +1,4 @@
-# Our mission statement
+# Our Mission Statement
 
 *For the complete mission statement see page 6 of the [NeoNephos charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1752224856213.1752239213397.124&__hssc=81619592.5.1752239213397&__hsfp=1765797706).*
 
