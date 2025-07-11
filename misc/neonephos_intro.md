@@ -1,0 +1,42 @@
+# NeoNephos Intro
+
+On March 31, 2025, the Linux Foundation Europe officially announced the launch of the non-profit open source NeoNephos Foundation. The launch, which [was preceded by an intend to launch notice four months earlier](https://linuxfoundation.eu/newsroom/neonephos-foundation-announces-intent-to-launch-fostering-collaboration-and-innovation-for-digital-autonomy-in-europe?__hstc=160532258.9c49e44b73bd3bee6fa385653ecd7c96.1748908800190.1748908800191.1748908800192.1&__hssc=160532258.1.1748908800193&__hsfp=3282704936), and followed by a KubeCon 2025 [Keynote Walk-On announcement](https://youtu.be/57koOOg0f5M?t=657) in April, presents the culmination of a long phase of preparation and deliberation among the initial founding members: SAP SE, Deutsche Telekom AG, STACKIT, Clyso GmbH, Cyberus Technology, TNO-ECOFED, 23 Technologies GmbH, Elastx and x-cellent technologies GmbH.
+
+## From IPCEI-CIS to ApeiroRA
+
+To fully appreciate the significance of our foundation requires a brief elaboration of the situational context. [For years, the European cloud services market has grown significantly](https://www.consultancy.eu/news/10650/european-iaas-and-paas-cloud-market-to-double-by-2028). However, domestic Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS) providers [have struggled to fully benefit from the increased market size of the cloud.](https://www.consultancy.eu/news/10650/european-iaas-and-paas-cloud-market-to-double-by-2028)
+
+For example, while the global cloud services market size has [almost doubled from 96.7€bn to 190.1€bn from 2020 to 2022](https://www.consultancy.eu/news/10650/european-iaas-and-paas-cloud-market-to-double-by-2028), the [market share of European cloud providers decreased from 16% to 13% in the same period](https://www.consultancy.eu/news/10650/european-iaas-and-paas-cloud-market-to-double-by-2028). Key reasons for the struggle of European providers can be traced back to fragmentation of cloud infrastructure in Europe due to a lack of standards and connectivity. This fragmentation increases operational costs for software providers trying to deliver consistent services across regions using heterogeneous infrastructure. While basic internet protocols allow for communication between services, limited interoperability inhibits seamless integration across tech stacks from different providers. These conditions favor already entrenched, non-domestic players in the market, inducing vendor lock in and ultimately reducing choice for customers.  
+  
+Since conditions are unlikely to be resolved by pure market dynamics alone, on [December 5, 2023, the European Commission approved](https://competition-policy.ec.europa.eu/state-aid/ipcei/approved-ipceis/cloud_en) the initiation of an Important Project of Common European Interest – Next Generation Cloud Infrastructures and Services (IPCEI – CIS). This initiative allows the distribution of state aid of participating member states to private companies and organizations, with the goal of co-financing efforts which lay the groundwork for seamless usage of cloud and edge services across European providers.
+
+Under this so called Multi-Provider-Cloud-Edge-Continuum, [positioned under the trademark 8ra](https://www.8ra.com/wp-content/uploads/8ra_Supervisory-Board_Mission-Document.pdf), data shall be processed locally where it is produced, reducing latency, environmental burden, and data transfer costs by combining cloud and edge resources from multiple sovereign providers. Once established, organizations will no longer be tied to a single provider and can run cloud-native applications wherever they choose. This levels the playing field for cloud consumers, reducing dependency on global hyperscalers or single providers in general, and gives users full control over their applications and data. Additionally, this addresses various environmental concerns.  
+[The Apeiro Reference Architecture by SAP](https://apeirora.eu/) is one of the projects under development within the framework of the IPCEI. It addresses multiple IPCEI workstreams: WS1 Cloud-Edge Continuum Infrastructure, WS2 Cloud-Edge capabilities, WS3 Advanced smart data processing tools, and WS4 Generic and sector-specific applications. These workstreams target key focus areas to contribute to the IPCEI goals. For more information about ApeiroRA, see [here](https://apeirora.eu/). But to provide a spillover effect of ApeiroRA’s results long past the time limited nature of an IPCEI, it is not enough to merely open-source the software. For sustainable dissemination and public acceptance of the results, a shared development vehicle was needed, allowing different organizations to work together and securing the investments of the initial IPCEI for the long term.
+
+## From ApeiroRA to NeoNephos
+
+For a shared development model to be sustainable and successful, several factors are desirable:
+
+1. The development umbrella should be neutral.
+
+2. The results of the development (trademarks etc.) should be open and neutral.
+
+3.  Governance should be consensus and vote-based.
+
+4. Technical participation should be open to anyone.
+
+5. Technical steering should be merit-based.
+
+The first two points aim to increase public acceptance and drive third-party adoption of the development results. They also serve as investment protection, as companies can co-develop together without fearing sudden license changes or trademark disputes. The other points address strategic and technical participation in the project, which should be open and democratic.
+
+Open Source Software Foundations are one way to resolve each aforementioned requirement. These foundationsare generally neutral, non-profit bodies focusing on open source and shared, sustainable development of projects. While the full process of choosing and evaluating foundations deserves its own blog post, the Linux Foundation Europe was found to be a good match to long-term secure the investments put into ApeiroRA and co-develop new projects with additional partners under the same vision: To provide a Multi-Provider-Cloud-Edge-Continuum. On November 19, 2024, the Linux Foundation Europe [announced the intent to launch](https://linuxfoundation.eu/newsroom/neonephos-foundation-announces-intent-to-launch-fostering-collaboration-and-innovation-for-digital-autonomy-in-europe?__hstc=160532258.9c49e44b73bd3bee6fa385653ecd7c96.1748908800190.1748908800191.1748908800192.1&__hssc=160532258.1.1748908800193&__hsfp=3282704936) the NeoNephos Foundation, which was launched four months later with additional partners, many of whom never had any relation to the initial IPCEI.
+
+## NeoNephos Today
+
+Today, NeoNephos hosts more than 11 projects, with many more to come, from a diverse array of different partners and members. Each project is fully donated to the foundation, with all trademarks and assets belonging to the Linux Foundation Europe. Our Technical Advisory Council ensures interoperability and technical coherence between the projects, making sure the results mesh together well and adhere to our vision: [to establish vendor-neutral, open and standardized reference APIs, thereby enabling any cloud consumer to flexibly switch between different, but conformant service providers, without being tied to a specific platform or provider](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750865178094.1750922929840.73&__hssc=81619592.3.1750922929840&__hsfp=1765797706). NeoNephos provides a sustainable, shared development model for projects of the cloud-edge continuum and offers collaborative potential for higher adoption. By being open to hosting projects from other industry players and the community at large, the foundation provides a nurturing environment for any project sharing the goal of an open, enterprise-hardened, multi provider cloud-to-edge continuum.
+
+You can contribute to NeoNephos in a diverse number of ways: by [participating in projects](https://github.com/neonephos), [donating entire projects](https://neonephos.org/projects) or [becoming a member](https://neonephos.org/join/) (if you are an organization).  
+  
+To find out how to contribute, visit our [community repository](https://github.com/neonephos/community).  
+  
+Lastly, follow us along on our journey by [subscribing to our newsletter](https://lists.neonephos.org/g/main/subgroups).
