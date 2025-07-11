@@ -16,7 +16,7 @@ These events are recurring and have an informational character, like for example
 - **[Garden Linux](https://github.com/gardenlinux/):**  Instead of a formal community call event, hop into into the [Gitter instance](https://gitter.im/gardenlinux/community).
 - **[Gardener](https://github.com/gardener/):**  Check the [community page](https://gardener.cloud/community/) for updates on public events and meetings.
 - **[Open Managed Control Pane](https://github.com/open-component-model/ocm-controller):** Check out the [steering page](https://github.com/openmcp-project/.github/tree/69649a4803c7d553f2aea59ca8c31370284f0a72/steering) to get in touch.
-- **[Open Resource Discovery](https://github.com/SAP/open-resource-discovery):** Check out the [steering page](https://github.com/open-resource-discovery/steering) to get in touch.
+- **[Open Resource Discovery](https://github.com/open-resource-discovery):** Check out the [steering page](https://github.com/open-resource-discovery/steering) to get in touch.
 - **[Open Micro Front End Platform (openMFP)](https://github.com/openmfp):**  Stay up to date on the [community page](https://github.com/openmfp/community) for events, calls and more.
 - **[Greenhouse](https://github.com/cloudoperators):** Check out the [steering page](https://github.com/cloudoperators/steering) to get in touch.
 - **[Platform Mesh](https://github.com/platform-mesh):**  Visit the [community page] for updates on events and meetings.
