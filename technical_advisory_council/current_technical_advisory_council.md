@@ -16,7 +16,7 @@ Welcome! Here you will find all necessary information regarding our Technical Ad
 | Michael Schmidt        | TSC Chairperson CobaltCore                |
 | Andreas Fritzler       | TSC Chairperson IronCore                  |
 | Simon Heimler          | TSC Chairperson Open Resource Discovery   |
-| Ivo Gossmann           | TSC Chairperson Greenhouse                |
+| Ivo Gosemann           | TSC Chairperson Greenhouse                |
 | Jakob Möller           | TSC Chairperson Open Component Model      |
 | Johannes Scheerer      | TSC Chairperson Gardener                  |
 | Thomas Mangold         | TSC Chairperson Garden Linux              |
