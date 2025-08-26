@@ -1,7 +1,7 @@
 # Sponsors
 
 NeoNephos' governance is split between the membership driven organisational governance by the [Governing Board (GB)](../governing_board/governing_board_introduction.md)
-and the [open access](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750928571631.1750956925388.76&__hssc=81619592.1.1750956925388&__hsfp=1765797706) technical governance advanced by the [Technical Advisory Council (TAC)](../technical_advisory_council/technical_advisory_council_introduction.md).
+and the open access technical governance advanced by the [Technical Advisory Council (TAC)](../technical_advisory_council/technical_advisory_council_introduction.md).
 
 While the technical governance is open to anyone, the organizational governance is usually driven by, perhaps non-surprisingly, organizations. In order to participate in the organizational governance, it is a requirement to be a member of a sponsorship class, which is facilitated by choosing one of the NeoNephos' sponsorship levels.
 
