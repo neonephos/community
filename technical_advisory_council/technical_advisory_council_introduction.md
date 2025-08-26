@@ -1,6 +1,6 @@
 # Technical Advisory Council
 
-NeoNephos' governance is split between the [membership driven organisational governance through the Governing Board (GB)](../governing_board/governing_board_introduction.md)
+NeoNephos' agenda is advanced by the [membership driven organisational governance through the Governing Board (GB)](../governing_board/governing_board_introduction.md)
 and the open access technical governance through the Technical Advisory Council (TAC).
 
 <img src="../assets/governance_at_a_glance.svg" alt="Governance Schematic" width="700" />
