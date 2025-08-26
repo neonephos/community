@@ -27,19 +27,19 @@ The Governing Board may elect to create new roles at will. The following are the
 ### Chairperson
 
 The Chairperson manages day-to-day operational decisions and presides over Governing Board Meetings.
-Formally, the Chairperson is called *an officer* of the GB. Other responsibilities of the chair include being the public figurehead of the foundation and potentially responsible for answering incoming inquiries. The Chairperson is elected by other board members and usually a [Premier Sponsor Representative](../General/Sponsors.md). The foundational charter does not mention term limits, so the Chairperson may serve until the sponsor status of the Chairperson's organization is terminated, the Chairperson voluntarily puts down the position or the board calls for new elections.
+Formally, the Chairperson is called *an officer* of the GB. The Chairperson is elected by the other voting GB Representatives. To be eligible as Chairperson a GB Representative position with voting rights is required. 
 
 ### Premier Representative
 
-Each [Premier Sponsor](../General/Sponsors.md) has a dedicated voting GB Representative.
+Each [Premier Member](../misc/membership_introduction.md) has a dedicated voting GB Representative.
 
 ### General Representative
 
-Each [General Sponsor](../General/Sponsors.md) shares a voting representative with up to four other General Sponsors.
+For every five [General Members](../misc/membership_introduction.md) a shared voting GB Representative seat is created.
 
 ### TAC Representative
 
-The TAC Representative is the liason between the GB and [TAC](../Technical_Advisory_Council/Technical_Advisory_Council_Explanation.md). The TAC Representative has the right to vote in the GB.
+The TAC Representative is the liason between the GB and [TAC](../technical_advisory_council/technical_advisory_council_introduction.md). The TAC Representative has the right to vote in the GB.
 
 ### Community Representative
 
