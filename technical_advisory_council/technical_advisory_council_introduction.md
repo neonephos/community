@@ -13,7 +13,7 @@ The specific responsibilities are set in the [NeoNephos Charter](https://cdn.pla
 - Liaison between the technical projects and the GB.
 - Requesting foundational resources like infrastructure, event planning support or funding from the GB.
 - Deciding on new technical projects (with GB)
-- Establishing technical guidelines like [project lifecycles](placeholder)
+- Establishing technical guidelines like project lifecycles
 - Establishing community norms.
 
 ## TAC Composition
