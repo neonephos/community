@@ -22,7 +22,7 @@ The TAC is composed as a mixture of [sponsorship based representation](../misc/m
 
 ### Premier Representative
 
-The Premier Representatives represent the interest of their respective [Premier Sponsor](../misc/membership_introduction.md). 
+The Premier Representatives represent the interest of their respective [Premier Member](../misc/membership_introduction.md). 
 
 ### Technical Project Representative
 
