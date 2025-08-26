@@ -26,6 +26,9 @@ Here you find links to learn more about us, what our organizational bodies are a
 Get to know our organizational bodies by exploring the links below.
 
 - **[Current Governing Board](governing_board/current_governing_board.md):** Our current Governing Board.
+- **[Governing Board Introduction](governing_board/governing_board_introduction.md):** Learn how our Governing Board (GB) works.
+- **[Technical Advisory Council Introduction](technical_advisory_council/technical_advisory_council_introduction.md):** Learn how the Technical Advisory Council (TAC) works
+- **[Technical Steering Committee Introduction](technical_steering_committee/technical_steering_committee_introduction.md):** Learn what Technical Steering Committees (TSCs) are.
 
 
 ## :scroll: Templates
