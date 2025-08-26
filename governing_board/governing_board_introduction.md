@@ -91,4 +91,3 @@ If you are a frequent contributor, the Governing Board member you will most like
 ## Further Reading
 
 The [NeoNephos Project Charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087) is the reference documentation regarding the Governing Board.
-For information about current GB activities, members and news, visit the [NeoNephos Governing Board informational page](../Governing_Board/Current_Governing_Board.md).
