@@ -1,6 +1,6 @@
 # Governing Board
 
-NeoNephos' governance is split between the [membership driven](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087) organisational governance
+NeoNephos' agenda is advanced by the [membership driven](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087) organisational governance
 and the [open access](../technical_advisory_council/technical_advisory_council_introduction.md) technical governance.
 
 <img src="../assets/governance_at_a_glance.svg" alt="Governance Schematic" width="700" />
