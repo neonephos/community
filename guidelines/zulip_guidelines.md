@@ -31,7 +31,7 @@ Zulip serves as the primary hub of fostering live communication between NeoNepho
 
 ## Channels
 
-<img src="../assets/zulip_guidelines_channels.png" alt="Zulip Channels" width="400"/>
+<img src="../assets/zulip_guidelines_channels.png" alt="Zulip Channels" width="300"/>
 
 Zulip channels organize conversations based on *who* needs to see them. There are a few guidelines and best practices to follow when creating, using and moderating channels which are listed in this chapter.
 
@@ -70,7 +70,7 @@ All new channels are initialized according to the default Linux Foundation Zulip
 
 ### Moderation Permissions
 
-<img src="../assets/zulip_guidelines_moderation.png" alt="Zulip Moderation" width="400"/>
+<img src="../assets/zulip_guidelines_moderation.png" alt="Zulip Moderation" width="300"/>
 
 By default, the moderation role assignments are as such:
 
@@ -112,6 +112,6 @@ Monitor community and internal developer engagement with Zulip. If you notice th
 
 #### Utilize Zulip Features
 
-<img src="../assets/zulip_guidelines_topics.png" alt="Zulip topics" width="400"/>
+<img src="../assets/zulip_guidelines_topics.png" alt="Zulip topics" width="300"/>
 
 Zulip functions slightly differently than other messaging platforms. Make use of Zulip's features like [topics](https://linuxfoundation.zulipchat.com/help/introduction-to-topics), [GitHub Integrations](https://zulip.com/integrations/doc/github) and more.
