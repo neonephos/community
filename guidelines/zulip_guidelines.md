@@ -16,9 +16,9 @@ Zulip serves as the primary hub of fostering live communication between NeoNepho
 ### What Belongs On Zulip
 
 * General, public discussion about the foundation or a project.
-* Public points of contact of councils such as of the [Technical Steering Committee](../technical_steering_committee/technical_steering_committee_introduction.md).
+* Public points of contact of councils such as of the Technical Steering Committee.
 * Point of support for users of a project.
-* Internal discussion of private committees such as the [Governing Board](../governing_board/governing_board_introduction.md).
+* Internal discussion of private committees such as the Governing Board.
 
 ### What Does Not Belong On Zulip
 
