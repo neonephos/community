@@ -67,8 +67,7 @@ If votes are conducted asynchronously (e.g. a poll that can be voted on for mult
 
 ## The GB is Shared Governance
 
-The GB must be resilient to changes in membership to maintain the original overall vision as laid out in the foundational charter. NeoNephos does this by democratizing the business leadership. Every important decision goes through a vote. The vision of the foundation can therefore only
-be altered by majority consent.
+The GB must be resilient to changes in membership to maintain the original overall vision as laid out in the foundational charter. Therefore, every important decision goes through a vote. The vision of the foundation can therefore only be altered by majority consent.
 
 ## Additional Rules & Considerations
 
@@ -85,8 +84,8 @@ The NeoNephos Governing Board meetings are generally private. This means, only G
 
 ## I am a Contributor. What does the GB do for me?
 
-The Governing Board ensures that the technical project you contribute to obtains the necessary resources needed in order to advance its goals. Without the Governing Board your project may lose infrastructure support, community management, outreach efforts, direct financial support and more. A strong Governing Board ensures a strong support network for your project.
-If you are a frequent contributor, the Governing Board member you will most likely cross ways with is the TAC Representative. The TAC Representative is the GB's technical liaison who actively engages with projects via e.g. [TAC meetings](../technical_advisory_council/technical_advisory_council_introduction.md).
+The Governing Board ensures that the technical projects you contribute to obtain the necessary resources needed in order to advance their goals. Without the Governing Board the project would have to come up itself with infrastructure support, community management, outreach efforts, direct financial support and more. A strong Governing Board ensures a strong support network for your project.
+As contributor, the Governing Board member you might cross paths with is the TAC Representative. The TAC Representative is the GB's technical liaison who actively engages with projects via e.g. [TAC meetings](../technical_advisory_council/technical_advisory_council_introduction.md).
 
 ## Further Reading
 
