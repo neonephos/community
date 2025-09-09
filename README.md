@@ -4,7 +4,7 @@
 
 :wave: Welcome to the official Community GitHub presence of the NeoNephos Foundation.
 
-🚧This repository is under active construction. Please check back soon.🚧
+🚧This repository is under active development. Please check back soon.🚧
 
 ## :globe_with_meridians: NeoNephos?
 
