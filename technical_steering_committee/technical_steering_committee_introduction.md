@@ -1,6 +1,6 @@
 # Technical Steering Committee
 
-The Technical Steering Committee (TSC) represents the governance of a specific technical project embedded within the foundation. The TSC ensures the project adheres to the NeoNephos vision and acts as an interface between the project and the foundation.
+The Technical Steering Committee (TSC) represents the governance of a specific technical project embedded within the foundation. The TSC ensures a project adheres to the NeoNephos vision and acts as an interface between the project and the foundation.
 
 ```mermaid
 graph LR;
