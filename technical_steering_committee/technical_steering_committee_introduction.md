@@ -10,7 +10,7 @@ B[Technical Advisory Council]-->C;
 C[Technical Steering Committees]:::selectedColor;
 ```
 
-The specific responsibilities are set in the charter of the technical project, but they include
+The specific responsibilities are set out in the charter of the technical project, but they include
 
 - Technical oversight of the project.
 - Liaison between the project and the TAC.
