@@ -1,11 +1,14 @@
 # Governing Board
 
-NeoNephos' agenda is advanced by the [membership driven](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087) organisational governance
-and the [open access](../technical_advisory_council/technical_advisory_council_introduction.md) technical governance.
-
-<img src="../assets/governance_at_a_glance.svg" alt="Governance Schematic" width="700" />
-
 The Governing Board (GB) represents the business leadership of NeoNephos and is the most fundamental organizational body of the project. Within it decisions are made regarding the future of the foundation and the technical projects contained within.
+
+```mermaid
+graph LR;
+classDef selectedColor color:#022e1f,fill:#0fafff;
+A[Governing Board]:::selectedColor-->B;
+B[Technical Advisory Council]-->C;
+C[Technical Steering Committees];
+```
 
 The specific responsibilities are set in the [foundational project charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087), but they include
 
