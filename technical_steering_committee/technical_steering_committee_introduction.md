@@ -1,11 +1,14 @@
 # Technical Steering Committee
 
-NeoNephos' agenda is advanced by the [membership driven organisational governance through the Governing Board (GB)](../governing_board/governing_board_introduction.md)
-and the open access technical governance through the [Technical Advisory Council (TAC)](../technical_advisory_council/technical_advisory_council_introduction.md).
-
-<img src="../assets/governance_at_a_glance.svg" alt="Governance Schematic" width="700" />
-
 The Technical Steering Committee (TSC) represents the governance of a specific technical project embedded within the foundation. The TSC ensures the project adheres to the NeoNephos vision and acts as an interface between the project and the foundation.
+
+```mermaid
+graph LR;
+classDef selectedColor color:#022e1f,fill:#0fafff;
+A[Governing Board]-->B;
+B[Technical Advisory Council]-->C;
+C[Technical Steering Committees]:::selectedColor;
+```
 
 The specific responsibilities are set in the charter of the technical project, but they include
 
