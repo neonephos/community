@@ -1,11 +1,14 @@
 # Technical Advisory Council
 
-NeoNephos' agenda is advanced by the [membership driven organisational governance through the Governing Board (GB)](../governing_board/governing_board_introduction.md)
-and the open access technical governance through the Technical Advisory Council (TAC).
-
-<img src="../assets/governance_at_a_glance.svg" alt="Governance Schematic" width="700" />
-
 The TAC ensures the projects adhere to the NeoNephos vision and acts as an interface between the projects and the [Governing Board](../governing_board/governing_board_introduction.md).
+
+```mermaid
+graph LR;
+classDef selectedColor color:#022e1f,fill:#0fafff;
+A[Governing Board]-->B;
+B[Technical Advisory Council]:::selectedColor-->C;
+C[Technical Steering Committees];
+```
 
 The specific responsibilities are set in the [NeoNephos Charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087), but they include
 
