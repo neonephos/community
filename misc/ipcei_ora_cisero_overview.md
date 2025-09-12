@@ -30,7 +30,7 @@ In [its own words](https://www.8ra.com/wp-content/uploads/8ra_Supervisory-Board_
 ## How NeoNephos relates to these initiatives?
 
 It is commonly asked how independent NeoNephos is from the aforementioned organizational entities. The answer is straightforward: **The NeoNephos Foundation is a project of the Linux Foundation Europe (LFEU).** The foundation itself, all its projects, trademarks and domains are fully owned by LFEU. 
-The link to IPCEI-CIS link can be found [in our mission statement](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.11739e1f4ca03192f4e918409f725053.1748961872693.1755169332458.1755604645613.29&__hssc=81619592.2.1755604645613&__hsfp=1879682750):
+The link to IPCEI-CIS can be found [in our mission statement](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.11739e1f4ca03192f4e918409f725053.1748961872693.1755169332458.1755604645613.29&__hssc=81619592.2.1755604645613&__hsfp=1879682750):
 
 > The NeoNephos Foundation is dedicated to advancing open-source projects that align with the strategic objectives of the European Union's Important Project of Common European Interest in Cloud Infrastructure and Services (EU IPCEI-CIS).
 
