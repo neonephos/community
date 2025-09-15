@@ -1,4 +1,4 @@
-# Sponsors
+# Members
 
 While participation in the technical governance is open to anyone via the [Technical Advisory Council (TAC)](../technical_advisory_council/technical_advisory_council_introduction.md) and Technical Steering Committees (TSCs) of the projects, the [strategic governance](../governing_board/governing_board_introduction.md) is driven by NeoNephos' members. In order to participate in the organizational governance, it is a requirement to be a member of a membership class, which is facilitated by choosing one of the NeoNephos' membership levels below.
 
