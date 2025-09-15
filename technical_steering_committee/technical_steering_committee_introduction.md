@@ -57,4 +57,4 @@ If votes are being conducted in a meeting, the chair should ensure that the soft
 
 ## Further Reading
 
-Learn more about the TSCs of the various projects by visiting their GitHub presence.
+* Learn more about the TSCs of the various projects by visiting their GitHub presence.
