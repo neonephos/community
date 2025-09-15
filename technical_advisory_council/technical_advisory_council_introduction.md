@@ -47,3 +47,4 @@ NeoNephos TAC Meetings are currently closed. Each meeting is recorded and minute
 ## Further Reading
 
 * The [NeoNephos Project Charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087) is the reference documentation defining the TAC.
+* The [TAC section on the NeoNephos Website](https://neonephos.org/technical_advisory_council) lists all current TAC members.
