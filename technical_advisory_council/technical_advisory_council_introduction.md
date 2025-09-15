@@ -21,7 +21,7 @@ The specific responsibilities are set in the [NeoNephos Charter](https://cdn.pla
 
 ## TAC Composition
 
-The TAC is composed as a mixture of [sponsorship based representation](../misc/membership_introduction.md) and open-to-all-merit-based representation. The following roles are the minimum roles for a functioning TAC.
+The TAC is composed as a mixture of [membership based representation](../misc/membership_introduction.md) and open-to-all-merit-based representation. The following roles are the minimum roles for a functioning TAC.
 
 ### Premier Representative
 
