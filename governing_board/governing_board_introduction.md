@@ -1,6 +1,6 @@
 # Governing Board
 
-The Governing Board (GB) represents the business leadership of NeoNephos and is the most fundamental organizational body of the project. Within it decisions are made regarding the future of the foundation and the technical projects contained within.
+The Governing Board (GB) represents the strategic leadership of NeoNephos. Within it decisions are made regarding the future of the foundation and the technical projects contained within.
 
 ```mermaid
 graph LR;
