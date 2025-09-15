@@ -56,10 +56,7 @@ The Treasurer prepares budgets for the Governing Board and monitors expenses. Co
 
 <img src="../assets/gb_voting.svg" alt="GB Composition" width="500" />
 
-
-The Governing Board usually votes on issues with a simple majority and requires 50% of members with voting rights present. This protects the majority from a minority rule.
-If votes are conducted asynchronously (e.g. a poll that can be voted on for multiple days) then this requirement can be foregone.
-
+Votes in the Governing Board are usually simple majority votes. Some exceptions defined the the charter may require supermajority voting. If a vote is to be conducted during a meeting, then at least 50% of GB Representatives with voting rights must be present to reach quorum. If votes are conducted asynchronously (e.g. a poll that can be voted on for multiple days) then at least 50% of eligible GB Representatives must have cast a vote.
 
 | Roles with Voting Rights |
 |--|
@@ -68,18 +65,9 @@ If votes are conducted asynchronously (e.g. a poll that can be voted on for mult
 | TAC Representative |
 | Community Representative |
 
-## The GB is Shared Governance
+## One Representative per Sponsor
 
-The GB must be resilient to changes in membership to maintain the original overall vision as laid out in the foundational charter. Therefore, every important decision goes through a vote. The vision of the foundation can therefore only be altered by majority consent.
-
-## Additional Rules & Considerations
-
-In order to increase fairness and resilience of the Governing Board, some additional rules and guidelines have been introduced.
-
-### One Representative per Sponsor
-
-As the [foundational project charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087) describes, no organization can appoint more than one representative to the Governing Board. The only way a single company can have two representatives is if this company also provides the TAC Representative. The charter also defines that this rule is also valid for all sub- and parent companies of the member organization. This means if Company B is a subcorporation of Company A, both will still share a single representative in the Governing Board.
-The only exception is the Governing Board Technical Advisory Council Representative role. This role can be held by a representative of a company while another representative of that same company might already hold a seat on the Governing Board.
+As the [foundational project charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.b399ecdf5f859a9f55ff3dc8bf8218d5.1748238689615.1750404125102.1750409856266.57&__hssc=81619592.1.1750409856266&__hsfp=2785804087) describes, no organization can appoint more than one representative to the Governing Board. The only way a single company can have two representatives on the board is if this company also provides the TAC Representative. The charter also defines that this rule is also valid for all sub- and parent companies of the member organization. This means if Company B is a subcorporation of Company A, both will still share a single representative in the Governing Board.
 
 ## Meetings
 
