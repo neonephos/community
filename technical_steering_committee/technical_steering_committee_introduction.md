@@ -21,7 +21,7 @@ The specific responsibilities are set out in the charter of the technical projec
 
 <img src="../assets/tsc_general_roles.svg" alt="TSC General Roles Schematic" width="500" />
 
-Anyone can contribute to NeoNephos' projects. In order to establish an effective governance structure, it makes sense to further subdivide the project participants: Contributor and Code Owner.
+Anyone can contribute to NeoNephos' projects. The exact structure of the TSC depends on the Technical Project Charter that the project aligns on in conjunction with the TAC and LFEU. The following is a sample structure that is shared by many of our projects. It introduces the roles of Contributor and Code Owner.
 
 ### Contributor
 
@@ -43,7 +43,7 @@ TSC members of a project are usually found on a dedicated website or in a CONTRI
 ## TSC Roles
 
 The TSC members may subdivide themselves again into different roles to better organize the proceedings. It is up to the TSC to decide on the existence and responsibilities of new roles.
-However, a Chairperson is, next to normal members, the minimum additional TSC role mentioned in the standard charter for NeoNephos projects:
+However, a Chairperson is, next to normal members, the minimum additional TSC role mentioned in the standard charter for NeoNephos' projects:
 
 ### Chairperson
 
