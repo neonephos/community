@@ -4,7 +4,7 @@ Presentations of NeoNephos are often accompanied by a plethora of terms and abbr
 
 ## What is an IPCEI?
 
-The European Union (EU) is a supranational organization where member states have conferred aspects of their national sovereignty to EU institutions. This allows these institutional bodies to make decisions and binding laws, under the motive of strengthening the functioning of the union. One particular area of interest is the distribution of state aid. Such subventions to e.g. the private sector have the power to distort the market in favor of a member state and must therefore be regulated supranationally, at the level of the union as a whole. 
+To understand an IPCEI let's go back to the basics. The European Union (EU) is a supranational organization where member states have conferred aspects of their national sovereignty to EU institutions. This allows these institutional bodies to make decisions and binding laws, under the motive of strengthening the functioning of the union. One particular area of interest is the distribution of state aid. Such subventions to e.g. the private sector have the power to distort the market in favor of a member state and must therefore be regulated supranationally, at the level of the union as a whole. 
 
 [Article 107 of the Treaty on the Functioning of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12008E107) defines a list of exceptions on when state aid is allowed and can be disbursed by a national government to its internal market. For the purposes of NeoNephos, of particular interest is section three, which states:
 
@@ -36,9 +36,9 @@ The link to IPCEI-CIS can be found [in our mission statement](https://cdn.platfo
 
 IPCEI-CIS jumpstarted the development of the initial batch of NeoNephos projects by providing funding to ApeiroRA and provides the ideology behind NeoNephos.
 
-Still, contributors, projects and members which had nothing to do with the initial IPCEI-CIS but align to its philosophy are free to contribute to NeoNephos.
+Still, contributors, projects and members which had nothing to do with the initial IPCEI-CIS but align to its philosophy are free to contribute to NeoNephos. NeoNephos does not receive direct funding from the IPCEI budget.
 
-Our relationship with IPCEI-CIS is a great benefit as the entire foundation benefits from the increased resources and exposure provided by the parallel dissemination efforts spearheaded by 8ra and CISERO.
+Our relationship with IPCEI-CIS through ApeiroRA is a great benefit as the entire foundation benefits from the increased resources and exposure provided by the parallel dissemination efforts spearheaded by 8ra and CISERO.
 
 For further reading please consult the [ICEI-CIS](https://competition-policy.ec.europa.eu/state-aid/ipcei/approved-ipceis/cloud_en), [8ra](https://8ra.com), [CISERO](https://cisero-project.eu/) and [Linux Foundation](https://linuxfoundation.eu) websites.
 
