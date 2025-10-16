@@ -54,7 +54,7 @@ After admission, every NeoNephos project will be set up by the Technical Advisor
 
 #### How To Request Additional Channels
 
-Through the use of [topics](https://linuxfoundation.zulipchat.com/help/introduction-to-topics) the default channels should suffice for the majority of projects. Nevertheless, there may be reasons to have additional channels for e.g. security/vulnerability discussions. The procedure to add an additional channel is to open an LF-internal ticket via NeoNephos' Linux Foundation Project Managing Officer (LF PMO).
+Through the use of [topics](https://linuxfoundation.zulipchat.com/help/introduction-to-topics) the default channels should suffice for the majority of projects. Nevertheless, there may be reasons to have additional channels for e.g. security/vulnerability discussions. The procedure to add an additional channel is for the TSC Chairperson to nofity the TAC Chairperson of the intend to create a new channel for the project. The TAC Chairperson will then open an LF-internal ticket, requesting the new channel.
 
 ### Channel Settings
 
