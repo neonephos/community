@@ -4,8 +4,6 @@
 
 :wave: Welcome to the official Community GitHub presence of the NeoNephos Foundation.
 
-🚧This repository is under active development. Please check back soon.🚧
-
 ## :globe_with_meridians: NeoNephos?
 
 NeoNephos supports Europe’s strategic goal of creating a sovereign cloud-to-edge continuum — a federated digital platform spanning multiple providers, infrastructures, and software ecosystems. Emerging from the EU IPCEI-CIS initiative and building on the foundations laid by the ApeiroRA project, NeoNephos marks a strong step forward in our joint commitment to digital sovereignty — enabling openness, resilience, and innovation through collaboration and shared governance.
