@@ -15,8 +15,7 @@ Meetings are open to Governing Board members and invited guests. Dates are annou
 | Christian Neu  | Premier Member  | Chairperson  | SAP SE|
 | Christian Weiss  | Premier Member  | Representative  | T-Systems |
 | Stephan Illaender  | Premier Member  | Representative  | STACKIT |
-
-**The voting process for the General Member Representative is ongoing.**
+| Christian Berendt | General Member Rep. | Representative | 23 Technologies |
 
 ## Mailing Lists
 
