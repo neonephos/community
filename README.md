@@ -49,6 +49,7 @@ View NeoNephos current projects here.
 - **[Greenhouse](https://github.com/cloudoperators):**  Greenhouse is a comprehensive platform designed to address the challenges of operating large-scale cloud infrastructures.
 - **[Platform Mesh](https://github.com/platform-mesh):**  Platform Mesh establishes interoperability between multiple providers by building upon the Kubernetes API and resource model. Developers and admins can discover, access, and order services from various sources through kubectl.
 - **[Katalis](https://github.com/telekom/NeoNephos-Katalis):**  Katalis bridges Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles. Katalis establishes interoperability by translating Telco Federation APIs to IT Cloud resource provisioning and management.
+- **[Luigi](https://github.com/luigi-project):**  Luigi is a micro frontend JavaScript framework for building modular, scalable, and technology‑agnostic web applications with a unified user experience across distributed UI modules.
 
 ## :mega: Outreach
 
