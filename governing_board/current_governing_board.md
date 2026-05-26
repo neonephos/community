@@ -10,13 +10,4 @@ Meetings are open to Governing Board members and invited guests. Dates are annou
 
 ## Members
 
-|Representative|Appointed By|Role|Organization|
-|---|---|---|---|
-| Christian Neu  | Premier Member  | Chairperson  | SAP SE|
-| Christian Weiss  | Premier Member  | Representative  | T-Systems |
-| Stephan Illaender  | Premier Member  | Representative  | STACKIT |
-| Christian Berendt | General Member Rep. | Representative | 23 Technologies |
-
-## Mailing Lists
-
-Currently, there is no public mailing list.
+Our current list of members can be found [here](https://neonephos.org/governing_board).
