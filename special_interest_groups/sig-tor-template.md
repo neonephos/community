@@ -3,13 +3,15 @@
 **Version:** 1.0  
 **Status:** Active  
 **Created:** YYYY-MM-DD  
-**Parent body:** NeoNephos Technical Advisory Council (TAC)  
+**Parent body:**
+- [ ] Technical Advisory Council
+- [ ] Outreach Commitee
 
 ---
 
-> Use this template to propose a new NeoNephos Special Interest Group. Sections 1 through 6 are specific to each SIG and must be completed by the proposers. Governance rules that apply to all SIGs are defined in [sig-definition.md](sig-definition.md). The TAC approves the completed terms of reference before the SIG becomes active.
+> Use this template to propose a new NeoNephos Special Interest Group. Sections 1 through 6 are specific to each SIG and must be completed by the proposers. Governance rules that apply to all SIGs are defined in [sig-definition.md](sig-definition.md). The hosting committee approves the completed terms of reference before the SIG becomes active.
 
-> Fill in all bracketed placeholders and remove this note before submitting to the TAC.
+> Fill in all bracketed placeholders and remove this note before submitting to the hosting committee.
 
 ---
 
