@@ -16,6 +16,7 @@ Each SIG is hosted by the NeoNephos committee ("the hosting committee") which be
 
 - The NeoNephos Technical Advisory Council (TAC) creates all technical SIGs and governs them. 
 - The NeoNephos Outreach Committee (OC) creates all community & outreach related SIGs and governs them.
+- The NeoNephos Governing Board (GB) creates all strategic & member related SIGs and governs them.
 
 A SIG's terms of reference take effect upon the hosting committee's approval and remain subject to its oversight. The hosting committee may dissolve a SIG by majority vote. The hosting committee must give 30 days written notice through the SIG's primary communication channel.
 
