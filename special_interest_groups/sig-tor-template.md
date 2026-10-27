@@ -6,6 +6,7 @@
 **Parent body:**
 - [ ] Technical Advisory Council
 - [ ] Outreach Commitee
+- [ ] Governing Board
 
 ---
 
