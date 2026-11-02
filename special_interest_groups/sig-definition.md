@@ -1,24 +1,45 @@
 # NeoNephos Special Interest Groups
 
-**Version:** 1.1  
-**Status:** Active  
+**Version:** 1.2 
+**Status:** Draft - or review  
 **Maintained by:** NeoNephos Governing Board (GB)
 
 ---
 
-A NeoNephos Special Interest Group (SIG) is a long-lived working group within the NeoNephos Foundation. Each SIG coordinates work in a specific technical or community domain. SIGs are the primary way NeoNephos organizes sustained collaboration across projects and member organizations. SIGs may also facilitate initiatives that span multiple projects or provide foundation-level services.
+A NeoNephos Special Interest Group (SIG) is a long-lived working group within the NeoNephos Foundation. Each SIG coordinates work in a specific domain within the remit of its parent committee (e.g. technical, community, or strategic). SIGs are the primary way NeoNephos organizes sustained collaboration across projects and member organizations. SIGs may also facilitate initiatives that span multiple projects or provide foundation-level services.
 
-Each SIG is governed by a **terms of reference (ToR)** — a document that defines the SIG's purpose, scope, deliverables, and governance rules. The ToR is approved by the parent committee (as defined below) and reviewed annually.
+Each SIG is governed by its **terms of reference (ToR)**, a document or structured format that defines the SIG’s name, purpose, scope, deliverables and governance rules. The ToR is approved by the parent committee (as defined below) and reviewed annually. It may add to the rules of this framework, for example eligibility criteria for Maintainers or higher voting thresholds, but must not contradict them. In particular, it cannot change the parent committee’s oversight rights, the reporting obligations, the health criteria or the lifecycle rules.
+
+## Definitions
+
+- **Parent Committee:** the NeoNephos committee (TAC, OC or GB) that hosts a SIG.
+- **Dayz**: calendar days.
+- **Recorded activity:** merged pull requests, issues or discussions on GitHub, messages on the primary communication channel, or published meeting minutes
+- **Regular meeting:** a scheduled recurring meeting of a committee, including strategy meetings, excluding ad-hoc meetings.
+- **SIG registry:** the foundation-wide list of all SIGs (see SIG registry).
+- **GitHub home:** : the repository, or the folder within a shared repository, where a SIG keeps its files (see Meetings and communication).
 
 ## Authority and conformance
 
-Each SIG is hosted by the NeoNephos committee ("the parent committee") which best suits the SIG's scope.
+Each SIG is hosted by the NeoNephos committee ("the parent committee") that best suits the SIG's scope.
 
 - The NeoNephos Technical Advisory Council (TAC) creates all technical SIGs and governs them. 
 - The NeoNephos Outreach Committee (OC) creates all community & outreach related SIGs and governs them.
 - The NeoNephos Governing Board (GB) creates all strategic & member related SIGs and governs them.
 
-A SIG's terms of reference take effect upon the parent committee's approval and remain subject to its oversight. The parent committee may dissolve a SIG by majority vote. The parent committee must give 30 days written notice through the SIG's primary communication channel.
+A SIG's terms of reference take effect upon the parent committee's approval and remain subject to its oversight. The parent committee may dissolve a SIG by majority vote. The parent committee must give 30 days written notice through the SIG's primary communication channel. The dissolution takes effect at the end of the notice period.
+
+## Creation
+
+Anyone may propose a SIG to the parent committee by submitting a draft terms of reference, including name, scope, deliverables, initial Leads, and at least 3 interested Maintainers (the initial Leads included). The parent committee approves the SIG by majority vote.
+
+## Choosing the parent committee
+
+A SIG proposal is submitted to the committee whose remit best fits its scope. If a committee considers the proposal outside its remit, it forwards it to the appropriate committee. If the scope fits more than one committee, the committees concerned agree on the parent committee before voting; if they cannot agree, the GB decides.
+
+If a committee rejects a SIG proposal on its merits, no other committee may approve the same or a substantially similar proposal within 6 months. The proposers may appeal the rejection to the GB, whose decision is final.
+
+A SIG may transfer to another parent committee with the approval of both committees.
 
 ## Scope of autonomy
 
@@ -28,9 +49,16 @@ Within their chartered scope, SIGs make technical and process decisions independ
 
 SIGs operate at the NeoNephos Foundation level, not within individual projects. SIGs do not host NeoNephos projects directly; hosted projects govern themselves under their own terms of reference. A SIG may propose, sponsor, or advise projects within its domain. It may also support or lead cross-project initiatives.
 
-## SIG liaison
+## SIG registry
 
-The parent committee appoints one of its members as SIG liaison to each of its hosted SIGs and reappoints the liaison annually. The liaison attends SIG meetings as a non-voting observer, unless the liaison is also a SIG member. The liaison is the primary escalation contact between the SIG and the parent committee. If needed, the liaison presents the SIG's quarterly report to the parent committee on behalf of the Leads. The current liaison for each SIG is listed in that SIG's repository.
+All SIGs are listed in the NeoNephos SIG registry ```sigs.yaml``` at [https://github.com/neonephos/metadata](). For each SIG, ```sigs.yaml``` contains its name, parent committee, lifecycle status and link to the project specific ```sig.yaml```. The registry repository provides the authorative structure of ```sig.yaml`` which alls SIGs must fill out and display in their main repository.
+
+For each SIG, ```sig.yaml``` lists its specifics such as Leads, Maintainers, SIG liaison, primary communication channel, and a link to the SIG's GitHub home. The registry and its templates are authoritative.
+The GB ensures that the registry is maintained and accessible. Leads keep their SIG's entry up to date. The SIG liaison confirms changes to Leads and lifecycle status.
+
+## Code of conduct
+
+The NeoNephos Code of Conduct governs all SIG activity.
 
 ## Code of conduct
 
