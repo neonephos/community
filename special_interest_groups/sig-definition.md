@@ -13,7 +13,7 @@ Each SIG is governed by its **terms of reference (ToR)**, a document or structur
 ## Definitions
 
 - **Parent Committee:** the NeoNephos committee (TAC, OC or GB) that hosts a SIG.
-- **Dayz**: calendar days.
+- **Days**: calendar days.
 - **Recorded activity:** merged pull requests, issues or discussions on GitHub, messages on the primary communication channel, or published meeting minutes
 - **Regular meeting:** a scheduled recurring meeting of a committee, including strategy meetings, excluding ad-hoc meetings.
 - **SIG registry:** the foundation-wide list of all SIGs (see SIG registry).
@@ -67,57 +67,128 @@ The [NeoNephos Code of Conduct](https://github.com/neonephos/.github/blob/main/C
 ## Roles and membership
 
 | Role | Responsibilities | Eligibility |
-|---|---|---|
-| Contributor | Submit PRs, participate in discussions | Open to all |
-| Maintainer | Review and approve contributions, vote on SIG decisions | Nominated by a Lead; approved unless a Maintainer objects within 5 business days |
-| Lead (2) | Facilitate meetings, represent SIG externally, break ties | Elected by Maintainers; see Lead appointment below |
+| --- | --- | --- |
+| **Contributor** | Submit PRs, participate in discussions; may comment on proposals, but do not vote and cannot block a proposal | Open to all |
+| **Maintainer** | Review and approve contributions, vote on SIG decisions; may object to proposals under lazy consensus; elect Leads and may remove them | Nominated by a Lead; approved unless a Maintainer objects within 7 days; after an objection, Maintainers vote |
+| **Lead (2)** | Facilitate meetings, represent SIG externally; decide day-to-day organisational matters; ensure that minutes are provided; submit status reports; keep the SIG's registry entry up to date; nominate Maintainers | Elected by Maintainers; see Leads below |
+| **SIG liaison** | Link between SIG and parent committee; attends SIG meetings as non-voting observer (unless also a SIG member); primary escalation contact; may present the status report on behalf of the Leads; reminds the Leads when a report is due; confirms changes to Leads and lifecycle status in the SIG registry | Member of the parent committee, appointed by it; see SIG liaison below |
 
-### Lead appointment
+### Contributors
 
-The parent committee appoints the initial Leads at founding, with staggered terms (one for 6 months, one for 1 year). Thereafter, Leads are elected by majority vote of current Maintainers. Any Maintainer may self-nominate. Nomination and voting periods are each 1 week. Lead terms are 6 months, renewable. If a seat becomes vacant, remaining Leads may appoint an interim. A formal election must follow within 90 days.
+**Appointment**: Open to all; no appointment needed.
+**Inactivity and removal**: As for Maintainers (see below).
 
-### Inactivity and removal
+### Maintainers
 
-Leads may move a Contributor or Maintainer inactive for 12 months to emeritus status by majority vote, after giving written notice. The parent committee may remove a Lead at any time. Maintainers may also remove a Lead by majority vote.
+**Appointment**: A Lead nominates a Maintainer. The nomination is approved unless a Maintainer objects within 7 days. If a Maintainer objects, the Maintainers decide by vote.
+
+**Inactivity**: Leads may move a Contributor or Maintainer inactive for 12 months to emeritus status by majority vote, after giving written notice.
+
+**Removal**: Leads may remove a Contributor or Maintainer for violation of the NeoNephos Code of Conduct, following the Code of Conduct process. The affected person may appeal to the parent committee.
+
+### Leads
+
+**Appointment**: Leads must be Maintainers of the SIG. The parent committee appoints the initial Leads at founding, including their assignment with respect to the staggered terms (one for 3 months, one for 6 months). Thereafter, Leads are elected by majority vote of current Maintainers. Any Maintainer may self-nominate. Nomination and voting periods are each 1 week. Lead terms are 6 months, renewable.
+
+**Vacancy and interim Leads**: If a seat becomes vacant, the remaining Lead may appoint an interim Lead. A formal election must follow within 90 days. If a SIG has no Lead, the parent committee appoints interim Leads on the recommendation of the SIG liaison, preferably from the SIG's remaining Maintainers; otherwise from other interested people, who become Maintainers on appointment. The interim Leads can then nominate new Maintainers as usual. The parent committee may also appoint interim Leads to a dormant SIG to prepare its reactivation; the formal election then follows within 90 days of reactivation.
+
+**Removal**: The parent committee may remove a Lead at any time. Maintainers may also remove a Lead by a two-thirds majority of the votes cast. (section moved to Maintainers and Leads)
+
+### SIG liaison
+
+**Appointment**: The parent committee appoints one of its members as SIG liaison to each of its hosted SIGs and reappoints the liaison annually.
+**Listing**: The current liaison for each SIG is listed in the SIG registry.
+**Removal**: The parent committee may remove the liaison at any time. The SIG may request the removal of the liaison: the Leads, or a majority of the Maintainers, submit a reasoned request to the parent committee, which decides within 30 days or by its second regular meeting, whichever is earlier. The liaison may also step down at any time; the parent committee then appoints a successor within 1 month.
 
 ## Decision making
 
-1. Lazy consensus is the default for all decisions. A proposal stands if no objection is raised within 5 business days.
-2. Leads resolve contested decisions by majority vote if consensus cannot be reached.
-3. Unresolved disputes escalate to the parent committee. The parent committee must respond no later than the second parent committee meeting after the escalation.
+### How decisions are made
+
+Lazy consensus is the default for all decisions.
+
+- **Lazy consensus:** A proposal stands if no objection is raised within 7 days. Any Maintainer may raise an objection. Contributors may comment, but their comments do not block a proposal.
+- **Async decisions:** SIG members may make decisions asynchronously on GitHub, Zulip, or the mailing list using lazy consensus. (moved from Meetings and communication)
+- **Contested decisions:**  If consensus cannot be reached, the Maintainers decide by majority vote. Leads may decide day-to-day organisational matters (e.g. agenda, minutes) on their own.
+- **Escalation:** Unresolved disputes escalate to the parent committee via the SIG liaison. The parent committee must respond within 30 days or at its second regular meeting after the escalation, whichever is earlier.
+
+### Voting rules
+
+Votes by Maintainers, including Lead elections and removals, are valid if at least half of the Maintainers participate. A majority means a majority of the votes cast. Abstentions count toward the quorum but not toward the majority. A tie means the proposal is not adopted. If quorum is not reached, the vote is repeated once. If quorum is again not reached, the matter is escalated to the parent committee.
+
+### Overview of decisions
+
+The table summarises who decides what. The detailed rules are in the sections referenced.
+
+| Decision | Who decides | Rule |
+| --- | --- | --- |
+| Everyday SIG decisions | Maintainers | Lazy consensus: stands unless a Maintainer objects within 7 days |
+| Contested decisions | Maintainers | Majority of votes cast (quorum applies) |
+| Day-to-day organisation (agenda, minutes) | Leads | Leads decide on their own |
+| New Maintainer | Lead nominates, Maintainers | Approved unless a Maintainer objects within 7 days; after an objection, Maintainer vote |
+| Lead election | Maintainers | Majority of votes cast (see Leads) |
+| Lead removal | Maintainers, or parent committee | Two-thirds of votes cast; parent committee at any time |
+| Interim Lead | Remaining Lead, or parent committee if no Lead remains | See Leads |
+| Emeritus status | Leads | Majority, after 12 months of inactivity and written notice |
+| Removal for Code of Conduct violation | Leads | Code of Conduct process; appeal to parent committee |
+| Amendment of the SIG's ToR | Maintainers, then parent committee | Maintainer majority; parent committee approval |
+| Removal of the SIG liaison | Parent committee | At any time; on reasoned request of the Leads or a Maintainer majority, decision within 30 days or by the 2nd regular meeting |
+| Unresolved disputes | Parent committee | Within 30 days or by the 2nd regular meeting |
+| Creation of a SIG | Parent committee | Majority vote (see Creation) |
+| Change of parent committee | Both committees concerned | Approval of both (see Choosing the parent committee) |
+| Dormant status | Parent committee | After 6 months at-risk; immediately with no Maintainers |
+| Reactivation of a dormant SIG | Parent committee | Majority vote (see Lifecycle) |
+| Dissolution | Parent committee | Majority vote; effective after 30 days notice |
 
 ## Meetings and communication
 
-SIGs must conduct their primary communication in public. This allows anyone inside or outside the NeoNephos Foundation to follow the work and contribute. Each SIG must designate one channel as its primary communication channel and list it in its repository.
+SIGs must conduct their primary communication in public. This allows anyone inside or outside the NeoNephos Foundation to follow the work and contribute. Each SIG must designate one channel as its primary communication channel and list it in the SIG registry.
 
-- Scheduling — The SIG schedules meetings via Linux Foundation Events (LFX). The SIG sets the cadence.
-- Minutes — Leads are responsible that written minutes are provided after each meeting.
-- Recordings — The SIG decides whether to record meetings. It also decides whether to upload recordings to the [NeoNephos YouTube channel](https://www.youtube.com/@NeoNephos).
-- GitHub — Each SIG has a repository at `https://github.com/neonephos/sig-[shortname]`
-- Zulip — Each SIG may have a channel at `#sig-[shortname]` in the NeoNephos Zulip.
-- Mailing list — Each SIG may have a mailing list at `sig-[shortname]@lists.neonephos.org`.
-- Async decisions — SIG members may make decisions asynchronously on GitHub, Zulip, or the mailing list using lazy consensus.
+* **Scheduling:** The SIG schedules meetings via Linux Foundation Events (LFX). The SIG sets the cadence.
+* **Minutes:** Leads ensure that minutes of each meeting are publicly available. Minutes may take any form that records the main points and decisions, e.g. written notes, a summary, or a recording.
+* **Recordings:** The SIG decides whether to record meetings. It also decides whether to upload recordings to the NeoNephos YouTube channel.
+* **GitHub:** Each SIG has a repository at https://github.com/neonephos/sig-[shortname]
+* **Zulip:** Each SIG may have a channel at #sig-[shortname] in the NeoNephos Zulip.
+* **Mailing list:** Each SIG may have a mailing list at sig-[shortname]@lists.neonephos.org.
+* (moved to Decision making)
 
 ## Reporting
 
-- Quarterly report — The SIG submits a report to the parent committee at most every 3 months. The SIG may present the report at a parent committee's meeting or deliver it in written form. It must cover:
-  - Current Lead roster and SIG liaison
-  - Active subprojects and their status
-  - Key deliverables completed
-  - Community health metrics: contributor count and meeting attendance
-  - Blockers or unresolved escalations
-  - Goals for the coming quarter
-- Health criteria — The SIG is considered at-risk if it has had no meetings and no recorded activity for 3 consecutive months. Recorded activity includes merged PRs, issues, or discussions on GitHub, messages on the primary communication channel, or published meeting minutes. A SIG that misses two consecutive quarterly reports is also considered at-risk. After 6 months at-risk, the parent committee reviews whether to declare the SIG dormant.
+**Status report:** The SIG submits a status report to the parent committee  at intervals of 1 to 3 months. The SIG chooses its reporting interval within this range and states the planned date of its next report in each status report. The SIG liaison reminds the Leads when a report is due. The first report is due within 3 months of the parent committee's approval of the terms of reference. The SIG may present the report at a regular parent committee meeting or deliver it in written form. It must cover:
+
+- Current Lead roster and SIG liaison
+-	Active subprojects and their status
+-	Key deliverables completed
+-	Community health metrics: contributor count and meeting attendance
+-	Blockers or unresolved escalations
+-	Goals  until the next report
 
 ## Amendments
 
-Current Leads may amend a SIG's terms of reference by majority vote. Leads must present proposed amendments at a parent committee's meeting before they take effect. The parent committee votes on approval at that meeting or the next. The terms of reference are reviewed annually from the date of parent committee's approval.
+Anyone may propose amendments to the SIG's terms of reference; Maintainers approve them by majority vote. Leads must present proposed amendments at a regular parent committee meeting before they take effect. The parent committee votes on approval at that regular meeting or the next. The terms of reference are reviewed annually from the date of the parent committee's approval.
 
-## Lifecycle
+## Lifecycle and Health Criteria
 
 | Phase | Trigger |
-|---|---|
-| Active | Terms of reference approved by the parent committee |
-| At-risk | No meetings and no recorded activity for 3 consecutive months, or two consecutive quarterly reports missed. The parent committee is notified in both cases. |
-| Dormant | The parent committee declares the SIG dormant after 6 months without meetings or recorded activity, or after an unresolved Lead vacancy of 6 months. |
-| Dissolved | Parent committee majority vote; 30 days written notice on the SIG's primary communication channel. |
+| --- | --- |
+| Active | Terms of reference approved by the parent committee, or all at-risk conditions resolved, or a dormant SIG reactivated by the parent committee |
+| At-risk | No meetings and no recorded activity for 3 consecutive months, no status report for 6 months, or fewer than 3 Maintainers (but at least one). The parent committee is notified in all cases. |
+| Dormant | The parent committee may declare the SIG dormant after it has been at-risk for 6 months, or after an unresolved Lead vacancy of 6 months. A SIG with no Maintainers is declared dormant immediately, without the 6-month waiting period. |
+| Reactivation | A dormant SIG is reactivated when at least 3 Maintainers submit updated terms of reference, including two Leads, and the parent committee approves them by majority vote. The SIG then returns to Active. |
+| Dissolved | Parent committee majority vote; 30 days written notice on the SIG's primary communication channel. Takes effect at the end of the notice period. |
+
+## Transition
+
+SIGs existing at the time this document is approved must adopt terms of reference conforming to it within 6 months. Until then, their current rules continue to apply. For the transition:
+
+-	Each existing SIG is entered in the SIG registry within 1 month.
+-	The current chairperson or Leads become Maintainers and the initial Leads. If a SIG has fewer than two Leads, its Maintainers elect the missing Lead(s).
+-	Current voting members become Maintainers; other current members become Contributors unless nominated as Maintainers.
+-	The current SIG chairperson becomes the SIG liaison, unless the Maintainers disagree. Otherwise, or if the SIG has no chairperson, the parent committee appoints a SIG liaison within 1 month.
+-	SIGs without a GitHub home create one within the transition period.
+-	The first status report is due at the end of the transition period; the health criteria apply from then on.
+SIGs that have not adopted conforming terms of reference by the deadline are considered at-risk.
+
+
+## Changes to this document
+
+The GB maintains this document. Proposed changes are published for consultation for at least 2 weeks. All NeoNephos committees and all SIG Leads are notified and may comment, and the consultation is open to the public on the NeoNephos primary communication channels. The GB then approves changes by majority vote. Changes take effect upon approval; existing SIGs have 3 months to update their terms of reference if needed.
