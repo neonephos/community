@@ -31,7 +31,7 @@ A SIG's terms of reference take effect upon the parent committee's approval and 
 
 ## Creation
 
-Anyone may propose a SIG to the parent committee by submitting a draft terms of reference, including name, scope, deliverables, initial Leads, and at least 3 interested Maintainers (the initial Leads included). The parent committee approves the SIG by majority vote.
+Anyone may propose a SIG to the parent committee by submitting a GitHub issue at [https://neonephos.org/community](https://neonephos.org/community), including name, scope, deliverables, initial Leads, and at least 3 interested Maintainers (the initial Leads included). The parent committee approves the SIG by majority vote.
 
 ## Choosing the parent committee
 
@@ -51,9 +51,9 @@ SIGs operate at the NeoNephos Foundation level, not within individual projects. 
 
 ## SIG registry
 
-All SIGs are listed in the NeoNephos SIG registry ```sigs.yaml``` at [https://github.com/neonephos/metadata](). For each SIG, ```sigs.yaml``` contains its name, parent committee, lifecycle status and link to the project specific ```sig.yaml```. The registry repository provides the authorative structure of ```sig.yaml``` which alls SIGs must fill out and display in their main repository.
+All SIGs are listed in the NeoNephos SIG registry ```sigs.yaml``` at [https://github.com/neonephos/metadata](). For each SIG, ```sigs.yaml``` contains its name, parent committee, lifecycle status and link to the project specific ```<sig-slug>.yaml```. The registry repository provides the authorative structure of ```<sig-slug>.yaml``` which alls SIGs must fill out and display in their main repository.
 
-For each SIG, ```sig.yaml``` lists its specifics such as Leads, Maintainers, SIG liaison, primary communication channel, and a link to the SIG's GitHub home. The registry and its templates are authoritative.
+For each SIG, ```<sig-slug>.yaml``` lists its specifics such as Leads, Maintainers, SIG liaison, primary communication channel, and a link to the SIG's GitHub home. The registry and its templates are authoritative.
 The GB ensures that the registry is maintained and accessible. Leads keep their SIG's entry up to date. The SIG liaison confirms changes to Leads and lifecycle status.
 
 ## Code of conduct
@@ -146,9 +146,9 @@ SIGs must conduct their primary communication in public. This allows anyone insi
 * **Scheduling:** The SIG schedules meetings via Linux Foundation Events (LFX). The SIG sets the cadence.
 * **Minutes:** Leads ensure that minutes of each meeting are publicly available. Minutes may take any form that records the main points and decisions, e.g. written notes, a summary, or a recording.
 * **Recordings:** The SIG decides whether to record meetings. It also decides whether to upload recordings to the NeoNephos YouTube channel.
-* **GitHub:** Each SIG has a repository at https://github.com/neonephos/sig-[shortname]
-* **Zulip:** Each SIG may have a channel at #sig-[shortname] in the NeoNephos Zulip.
-* **Mailing list:** Each SIG may have a mailing list at sig-[shortname]@lists.neonephos.org.
+* **GitHub:** Each SIG has a repository at https://github.com/neonephos/sig-[slug]
+* **Zulip:** Each SIG may have a channel at #sig-[slug] in the NeoNephos Zulip.
+* **Mailing list:** Each SIG may have a mailing list at sig-[slug]@lists.neonephos.org.
 * (moved to Decision making)
 
 ## Reporting
