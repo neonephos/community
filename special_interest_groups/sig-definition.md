@@ -98,7 +98,7 @@ The [NeoNephos Code of Conduct](https://github.com/neonephos/.github/blob/main/C
 
 **Appointment**: The parent committee appoints one of its members as SIG liaison to each of its hosted SIGs and reappoints the liaison annually.
 **Listing**: The current liaison for each SIG is listed in the SIG registry.
-**Removal**: The parent committee may remove the liaison at any time. The SIG may request the removal of the liaison: the Leads, or a majority of the Maintainers, submit a reasoned request to the parent committee, which decides within 30 days or by its second regular meeting, whichever is earlier. The liaison may also step down at any time; the parent committee then appoints a successor within 1 month.
+**Removal**: The parent committee may remove the liaison at any time. The SIG may request the removal of the liaison: the Leads, or a majority of the Maintainers, submit a reasoned request to the parent committee, which decides within 30 days or by its second regular meeting, whichever is earlier. The liaison may also step down at any time; the parent committee then appoints a successor within 30 days.
 
 ## Decision making
 
@@ -107,7 +107,7 @@ The [NeoNephos Code of Conduct](https://github.com/neonephos/.github/blob/main/C
 Lazy consensus is the default for all decisions.
 
 - **Lazy consensus:** A proposal stands if no objection is raised within 7 days. Any Maintainer may raise an objection. Contributors may comment, but their comments do not block a proposal.
-- **Async decisions:** SIG members may make decisions asynchronously on GitHub, Zulip, or the mailing list using lazy consensus. (moved from Meetings and communication)
+- **Async decisions:** SIG members may make decisions asynchronously via their primary communication channel using lazy consensus.
 - **Contested decisions:**  If consensus cannot be reached, the Maintainers decide by majority vote. Leads may decide day-to-day organisational matters (e.g. agenda, minutes) on their own.
 - **Escalation:** Unresolved disputes escalate to the parent committee via the SIG liaison. The parent committee must respond within 30 days or at its second regular meeting after the escalation, whichever is earlier.
 
@@ -180,10 +180,10 @@ Anyone may propose amendments to the SIG's terms of reference; Maintainers appro
 
 SIGs existing at the time this document is approved must adopt terms of reference conforming to it within 6 months. Until then, their current rules continue to apply. For the transition:
 
--	Each existing SIG is entered in the SIG registry within 1 month.
+-	Each existing SIG is entered in the SIG registry within 30 days.
 -	The current chairperson or Leads become Maintainers and the initial Leads. If a SIG has fewer than two Leads, its Maintainers elect the missing Lead(s).
 -	Current voting members become Maintainers; other current members become Contributors unless nominated as Maintainers.
--	The current SIG chairperson becomes the SIG liaison, unless the Maintainers disagree. Otherwise, or if the SIG has no chairperson, the parent committee appoints a SIG liaison within 1 month.
+-	The current SIG chairperson becomes the SIG liaison, unless the Maintainers disagree. Otherwise, or if the SIG has no chairperson, the parent committee appoints a SIG liaison within 30 days.
 -	SIGs without a GitHub home create one within the transition period.
 -	The first status report is due at the end of the transition period; the health criteria apply from then on.
 SIGs that have not adopted conforming terms of reference by the deadline are considered at-risk.
