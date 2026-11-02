@@ -51,7 +51,7 @@ SIGs operate at the NeoNephos Foundation level, not within individual projects. 
 
 ## SIG registry
 
-All SIGs are listed in the NeoNephos SIG registry ```sigs.yaml``` at [https://github.com/neonephos/metadata](). For each SIG, ```sigs.yaml``` contains its name, parent committee, lifecycle status and link to the project specific ```sig.yaml```. The registry repository provides the authorative structure of ```sig.yaml`` which alls SIGs must fill out and display in their main repository.
+All SIGs are listed in the NeoNephos SIG registry ```sigs.yaml``` at [https://github.com/neonephos/metadata](). For each SIG, ```sigs.yaml``` contains its name, parent committee, lifecycle status and link to the project specific ```sig.yaml```. The registry repository provides the authorative structure of ```sig.yaml``` which alls SIGs must fill out and display in their main repository.
 
 For each SIG, ```sig.yaml``` lists its specifics such as Leads, Maintainers, SIG liaison, primary communication channel, and a link to the SIG's GitHub home. The registry and its templates are authoritative.
 The GB ensures that the registry is maintained and accessible. Leads keep their SIG's entry up to date. The SIG liaison confirms changes to Leads and lifecycle status.
