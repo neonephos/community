@@ -1,7 +1,7 @@
 # NeoNephos Special Interest Groups
 
-**Version:** 1.2 
-**Status:** Draft - or review  
+**Version:** 1.2  
+**Status:** Draft  
 **Maintained by:** NeoNephos Governing Board (GB)
 
 ---
